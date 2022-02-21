@@ -50,7 +50,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * **Graph Structure Learning for Robust Graph Neural Networks**, in *KDD* 2020. [\[pdf\]](https://arxiv.org/pdf/2005.10203.pdf) [\[code\]](https://github.com/ChandlerBang/Pro-GNN)
 
 * **Data Augmentation for Graph Neural Networks**, in *AAAI* 2021. [\[pdf\]](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf) [\[code\]](https://github.com/zhao-tong/GAug)
-* 
+
 * **Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View**, in *AAAI* 2020. [\[pdf\]](https://arxiv.org/pdf/1909.03211.pdf)
 
 #### Feature generation
