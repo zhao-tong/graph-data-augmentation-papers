@@ -12,7 +12,6 @@ We will try to make this list updated. If you found any error or any missed pape
 
 [Tong Zhao](https://tzhao.io/), [Gang Liu](https://scholar.google.com/citations?hl=en&user=zdF3vTYAAAAJ), [Stephan Günneman](https://www.in.tum.de/daml/team/guennemann/), and [Meng Jiang](http://www.meng-jiang.com/).
 
-<!-- 
 #### If you find this repository helpful for your work, please kindly cite our paper.
 
 ```bibtex
@@ -23,7 +22,6 @@ We will try to make this list updated. If you found any error or any missed pape
   year={2022}
 }
 ```
- -->
 
 ## Graph Data Augmentation for (semi-)Supervised Learning
 
