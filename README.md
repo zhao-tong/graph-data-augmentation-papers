@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 
-This repository contains a list of papers on the **Graph Data Augmentation**, we categorize them based on their learning objectives and methodologies.
+This repository contains a list of papers on the **Graph Data Augmentation**, we categorize them based on their learning objectives and tasks.
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
