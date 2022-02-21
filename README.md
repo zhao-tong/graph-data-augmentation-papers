@@ -4,7 +4,7 @@
 
 This repository contains a list of papers on the **Graph Data Augmentation**, we categorize them based on their learning objectives and methodologies.
 
-We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open a pull request.
+We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Survey paper
 
@@ -23,7 +23,7 @@ We will try to make this list updated. If you found any error or any missed pape
 }
 ```
 
-## Graph Data Augmentation for (semi-)Supervised Learning
+## Graph data augmentation for (semi-)supervised learning
 
 #### Edge dropping
 
@@ -95,7 +95,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Adaptive Data Augmentation on Temporal Graphs**, in *NeurIPS* 2021. [\[pdf\]](https://proceedings.neurips.cc/paper/2021/file/0b0b0994d12ad343511adfbfc364256e-Paper.pdf)
 
-## Graph Data Augmentation with Self-supervised Learning Objectives
+
+## Graph data augmentation with self-supervised learning objectives
 
 #### Corruption
 
