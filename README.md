@@ -8,7 +8,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Survey paper
 
-[**Graph Data Augmentation for Graph Machine Learning: A Survey**](). 
+[**Graph Data Augmentation for Graph Machine Learning: A Survey**](https://arxiv.org/pdf/2202.08871.pdf). 
 
 [Tong Zhao](https://tzhao.io/), [Gang Liu](https://scholar.google.com/citations?hl=en&user=zdF3vTYAAAAJ), [Stephan Günneman](https://www.in.tum.de/daml/team/guennemann/), and [Meng Jiang](http://www.meng-jiang.com/).
 
@@ -17,9 +17,9 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ```bibtex
 @article{zhao2022graph,
-  title={},
+  title={Graph Data Augmentation for Graph Machine Learning: A Survey},
   author={Zhao, Tong and Liu, Gang and Günneman, Stephan and Jiang, Meng},
-  journal={TODO},
+  journal={arXiv preprint arXiv:2202.08871},
   year={2022}
 }
 ```
