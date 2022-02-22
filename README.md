@@ -94,6 +94,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Fair Node Representation Learning via Adaptive Data Augmentation**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.08549.pdf)
 
+* **Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations**, in *bioRxiv* 2021. [\[pdf\]](https://www.biorxiv.org/content/10.1101/2021.12.03.471150v1.full.pdf)
+
 * **InfoGCL: Information-Aware Graph Contrastive Learning**, in *NeurIPS* 2021. [\[pdf\]](https://proceedings.neurips.cc/paper/2021/file/ff1e68e74c6b16a1a7b5d958b95e120c-Paper.pdf)
 
 * **Adversarial Graph Augmentation to Improve Graph Contrastive Learning**, in *NeurIPS* 2021. [\[pdf\]](https://proceedings.neurips.cc/paper/2021/file/854f1fb6f65734d9e49f708d6cd84ad6-Paper.pdf) [\[code\]](https://github.com/susheels/adgcl)
