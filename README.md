@@ -70,6 +70,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph**, in *KDD* 2021. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467186)  [\[code\]](https://github.com/illidanlab/MoCL-DK)
 
+*  **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**, in *IEEE Transactions on Network Science and Engineering* 2021. [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9237158)  
+
 * **GraphCrop: Subgraph Cropping for Graph Classification**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2009.10564.pdf)
 
 * **Data Augmentation for Graph Classification**, in *CIKM* 2020. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086)
