@@ -71,7 +71,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph**, in *KDD* 2021. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467186)  [\[code\]](https://github.com/illidanlab/MoCL-DK)
 
-* **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**, in *IEEE Transactions on Network Science and Engineering* 2021 [\[pdf\]](https://arxiv.org/pdf/2007.05700.pdf) and *CIKM* 2020. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086)
+* **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**, in *CIKM* 2020 [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086) and *IEEE TNSE* 2021. [\[pdf\]](https://arxiv.org/pdf/2007.05700.pdf)
 
 <!-- * **Data Augmentation for Graph Classification**, in *CIKM* 2020. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086) -->
 
@@ -79,7 +79,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **FLAG: Adversarial Data Augmentation for Graph Neural Networks**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2010.09891.pdf) [\[code\]](https://github.com/devnkong/FLAG)
 
-## Edge-level tasks
+### Edge-level tasks
 
 * **Counterfactual Graph Learning for Link Prediction**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2106.02172.pdf) [\[code\]](https://github.com/DM2-ND/CFLP)
 
@@ -119,7 +119,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Deep Graph Infomax**, in *ICLR* 2019. [\[pdf\]](https://arxiv.org/pdf/1809.10341.pdf) [\[code\]](https://github.com/PetarV-/DGI)
 
-### Consistency Learning
+### Consistency learning
 
 * **NodeAug: Semi-Supervised Node Classification with Data Augmentation**, in *KDD* 2020. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403063)
 
