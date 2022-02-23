@@ -52,6 +52,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * **DropEdge: Towards Deep Graph Convolutional Networks on Node Classification**, in *ICLR* 2020. [\[pdf\]](https://openreview.net/pdf?id=Hkx1qkrKPr) [\[code\]](https://github.com/DropEdge/DropEdge)
 
 * **Graph Structure Learning for Robust Graph Neural Networks**, in *KDD* 2020. [\[pdf\]](https://arxiv.org/pdf/2005.10203.pdf) [\[code\]](https://github.com/ChandlerBang/Pro-GNN)
+
 * **Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View**, in *AAAI* 2020. [\[pdf\]](https://arxiv.org/pdf/1909.03211.pdf)
 
 * **FLAG: Adversarial Data Augmentation for Graph Neural Networks**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2010.09891.pdf) [\[code\]](https://github.com/devnkong/FLAG)
@@ -70,11 +71,11 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph**, in *KDD* 2021. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467186)  [\[code\]](https://github.com/illidanlab/MoCL-DK)
 
-* **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**, in *IEEE Transactions on Network Science and Engineering* 2021. [\[pdf\]](https://arxiv.org/pdf/2007.05700.pdf)  
+* **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**, in *IEEE Transactions on Network Science and Engineering* 2021 [\[pdf\]](https://arxiv.org/pdf/2007.05700.pdf) and *CIKM* 2020. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086)
+
+<!-- * **Data Augmentation for Graph Classification**, in *CIKM* 2020. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086) -->
 
 * **GraphCrop: Subgraph Cropping for Graph Classification**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2009.10564.pdf)
-
-* **Data Augmentation for Graph Classification**, in *CIKM* 2020. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086)
 
 * **FLAG: Adversarial Data Augmentation for Graph Neural Networks**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2010.09891.pdf) [\[code\]](https://github.com/devnkong/FLAG)
 
