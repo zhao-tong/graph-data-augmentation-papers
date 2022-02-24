@@ -101,9 +101,13 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2111.03220.pdf)
 
+* **Contrastive Self-supervised Sequential Recommendation with Robust Augmentation**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2108.06479.pdf)
+
 * **Collaborative Graph Contrastive Learning: Data Augmentation Composition May Not be Necessary for Graph Representation Learning**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2111.03262.pdf)
 
 * **Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations**, in *BIBM* 2021. [\[pdf\]](https://www.biorxiv.org/content/10.1101/2021.12.03.471150v1.full.pdf)
+
+* **Self-Supervised GNN that Jointly Learns to Augment**, in *NeurIPS Workshop* 2021. [\[pdf\]](https://www.researchgate.net/profile/Zekarias-Kefato/publication/356997993_Self-Supervised_GNN_that_Jointly_Learns_to_Augment/links/61b75d88a6251b553ab64ff4/Self-Supervised-GNN-that-Jointly-Learns-to-Augment.pdf)
 
 * **InfoGCL: Information-Aware Graph Contrastive Learning**, in *NeurIPS* 2021. [\[pdf\]](https://proceedings.neurips.cc/paper/2021/file/ff1e68e74c6b16a1a7b5d958b95e120c-Paper.pdf)
 
