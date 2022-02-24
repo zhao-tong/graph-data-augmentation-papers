@@ -91,13 +91,19 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Contrastive learning
 
-* **Large-Scale Representation Learning on Graphs via Bootstrapping**, in *ICLR* 2022. [\[pdf\]](https://arxiv.org/pdf/2102.06514.pdf) [\[code\]](https://github.com/Namkyeong/BGRL_Pytorch)
-
 * **Learning Graph Augmentations to Learn Graph Representations**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.09830.pdf) [\[code\]](https://github.com/kavehhassani/lg2ar)
 
 * **Fair Node Representation Learning via Adaptive Data Augmentation**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.08549.pdf)
 
-* **Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations**, in *bioRxiv* 2021. [\[pdf\]](https://www.biorxiv.org/content/10.1101/2021.12.03.471150v1.full.pdf)
+* **Fair Node Representation Learning via Adaptive Data Augmentation**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.08549.pdf)
+
+* **Large-Scale Representation Learning on Graphs via Bootstrapping**, in *ICLR* 2022. [\[pdf\]](https://arxiv.org/pdf/2102.06514.pdf) [\[code\]](https://github.com/Namkyeong/BGRL_Pytorch)
+
+* **Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2111.03220.pdf)
+
+* **Collaborative Graph Contrastive Learning: Data Augmentation Composition May Not be Necessary for Graph Representation Learning**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2111.03262.pdf)
+
+* **Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations**, in *BIBM* 2021. [\[pdf\]](https://www.biorxiv.org/content/10.1101/2021.12.03.471150v1.full.pdf)
 
 * **InfoGCL: Information-Aware Graph Contrastive Learning**, in *NeurIPS* 2021. [\[pdf\]](https://proceedings.neurips.cc/paper/2021/file/ff1e68e74c6b16a1a7b5d958b95e120c-Paper.pdf)
 
@@ -108,6 +114,8 @@ We will try to make this list updated. If you found any error or any missed pape
 * **Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks**, in *CIKM* 2021. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482477)
 
 * **Graph Contrastive Learning Automated**, in *ICML* 2021. [\[pdf\]](https://arxiv.org/pdf/2106.07594.pdf) [\[code\]](https://github.com/Shen-Lab/GraphCL_Automated)
+
+* **Graph Data Augmentation based on Adaptive Graph Convolution for Skeleton-based Action Recognition**, in *ICCSNT* 2021. [\[pdf\]](https://ieeexplore.ieee.org/abstract/document/9615451)
 
 * **Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning**, in *ICDM* 2020. [\[pdf\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9338425) [\[code\]](https://github.com/yzjiao/Subg-Con)
 
