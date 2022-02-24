@@ -73,8 +73,6 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**, in *CIKM* 2020 [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086) and *IEEE TNSE* 2021. [\[pdf\]](https://arxiv.org/pdf/2007.05700.pdf)
 
-<!-- * **Data Augmentation for Graph Classification**, in *CIKM* 2020. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086) -->
-
 * **GraphCrop: Subgraph Cropping for Graph Classification**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2009.10564.pdf)
 
 * **FLAG: Adversarial Data Augmentation for Graph Neural Networks**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2010.09891.pdf) [\[code\]](https://github.com/devnkong/FLAG)
@@ -92,8 +90,6 @@ We will try to make this list updated. If you found any error or any missed pape
 ### Contrastive learning
 
 * **Learning Graph Augmentations to Learn Graph Representations**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.09830.pdf) [\[code\]](https://github.com/kavehhassani/lg2ar)
-
-* **Fair Node Representation Learning via Adaptive Data Augmentation**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.08549.pdf)
 
 * **Fair Node Representation Learning via Adaptive Data Augmentation**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.08549.pdf)
 
