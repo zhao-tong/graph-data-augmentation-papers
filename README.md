@@ -1,6 +1,6 @@
 ## Graph Data Augmentation Papers
 
-![](https://img.shields.io/badge/PRs-Welcome-green)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/zhao-tong/graph-data-augmentation-papers?color=yellow)  ![Forks](https://img.shields.io/github/forks/zhao-tong/graph-data-augmentation-papers?color=blue&label=Fork)
 
 This repository contains a list of papers on the **Graph Data Augmentation**, we categorize them based on their learning objectives and tasks.
 
