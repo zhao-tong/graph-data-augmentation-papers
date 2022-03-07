@@ -60,6 +60,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * **GraphMix: Improved Training of GNNs for Semi-Supervised Learning**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/1909.11715.pdf) [\[code\]](https://github.com/vikasverma1077/GraphMix)
 
 * **Diffusion Improves Graph Learning**, in *NeurIPS* 2019. [\[pdf\]](https://proceedings.neurips.cc/paper/2019/file/23c894276a2c5a16470e6a31f4618d73-Paper.pdf) [\[code\]](https://github.com/klicperajo/gdc)
+* **Heterogeneous Graph Neural Network via Attribute Completion**, in *WWW* 2021. [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3442381.3449914)
 
 ### Graph-level tasks
 
