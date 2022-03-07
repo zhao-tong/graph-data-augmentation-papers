@@ -27,9 +27,13 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Node-level tasks
 
-* **Training Robust Graph Neural Networks with Topology Adaptive Edge Dropping**, in *arxiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2106.02892.pdf)
+* **Local Augmentation for Graph Neural Networks**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2109.03856.pdf)
+
+* **Training Robust Graph Neural Networks with Topology Adaptive Edge Dropping**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2106.02892.pdf)
 
 * **FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2104.14210.pdf) [\[code\]](https://github.com/ispamm/FairDrop)
+
+* **Topological Regularization for Graph Neural Networks Augmentation**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2104.02478.pdf)
 
 * **Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks**, in *CIKM* 2021. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482477)
 
@@ -37,15 +41,17 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Action Sequence Augmentation for Early Graph-based Anomaly Detection**, in *CIKM* 2021. [\[pdf\]](https://arxiv.org/pdf/2010.10016.pdf) [\[code\]](https://github.com/DM2-ND/Eland)
 
-* **Local Augmentation for Graph Neural Networks**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2109.03856.pdf)
-
 * **Data Augmentation for Graph Neural Networks**, in *AAAI* 2021. [\[pdf\]](https://www.aaai.org/AAAI21Papers/AAAI-10012.ZhaoT.pdf) [\[code\]](https://github.com/zhao-tong/GAug)
-
-* **Topological Regularization for Graph Neural Networks Augmentation**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2104.02478.pdf)
 
 * **Automated Graph Representation Learning for Node Classification**, in *IJCNN* 2021. [\[pdf\]](https://ieeexplore.ieee.org/document/9533811)
 
 * **Mixup for Node and Graph Classification**, in *The WebConf* 2021. [\[pdf\]](https://wangywust.github.io/Paper/2021mix.pdf)  [\[code\]](https://github.com/vanoracai/MixupForGraph)
+
+* **Heterogeneous Graph Neural Network via Attribute Completion**, in *The WebConf* 2021. [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3442381.3449914)
+
+* **FLAG: Adversarial Data Augmentation for Graph Neural Networks**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2010.09891.pdf) [\[code\]](https://github.com/devnkong/FLAG)
+
+* **GraphMix: Improved Training of GNNs for Semi-Supervised Learning**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/1909.11715.pdf) [\[code\]](https://github.com/vikasverma1077/GraphMix)
 
 * **Robust Graph Representation Learning via Neural Sparsification**, in *ICML* 2020. [\[pdf\]](http://proceedings.mlr.press/v119/zheng20d/zheng20d.pdf)
 
@@ -55,12 +61,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View**, in *AAAI* 2020. [\[pdf\]](https://arxiv.org/pdf/1909.03211.pdf)
 
-* **FLAG: Adversarial Data Augmentation for Graph Neural Networks**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2010.09891.pdf) [\[code\]](https://github.com/devnkong/FLAG)
-
-* **GraphMix: Improved Training of GNNs for Semi-Supervised Learning**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/1909.11715.pdf) [\[code\]](https://github.com/vikasverma1077/GraphMix)
-
 * **Diffusion Improves Graph Learning**, in *NeurIPS* 2019. [\[pdf\]](https://proceedings.neurips.cc/paper/2019/file/23c894276a2c5a16470e6a31f4618d73-Paper.pdf) [\[code\]](https://github.com/klicperajo/gdc)
-* **Heterogeneous Graph Neural Network via Attribute Completion**, in *WWW* 2021. [\[pdf\]](https://dl.acm.org/doi/abs/10.1145/3442381.3449914)
 
 ### Graph-level tasks
 
@@ -72,11 +73,11 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph**, in *KDD* 2021. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467186)  [\[code\]](https://github.com/illidanlab/MoCL-DK)
 
-* **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**, in *CIKM* 2020 [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086) and *IEEE TNSE* 2021. [\[pdf\]](https://arxiv.org/pdf/2007.05700.pdf)
+* **FLAG: Adversarial Data Augmentation for Graph Neural Networks**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2010.09891.pdf) [\[code\]](https://github.com/devnkong/FLAG)
 
 * **GraphCrop: Subgraph Cropping for Graph Classification**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2009.10564.pdf)
 
-* **FLAG: Adversarial Data Augmentation for Graph Neural Networks**, in *arXiv* 2020. [\[pdf\]](https://arxiv.org/pdf/2010.09891.pdf) [\[code\]](https://github.com/devnkong/FLAG)
+* **M-Evolve: Structural-Mapping-Based Data Augmentation for Graph Classification**, in *CIKM* 2020 [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412086) and *IEEE TNSE* 2021. [\[pdf\]](https://arxiv.org/pdf/2007.05700.pdf)
 
 ### Edge-level tasks
 
