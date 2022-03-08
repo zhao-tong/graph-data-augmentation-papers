@@ -65,6 +65,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Graph-level tasks
 
+* **GAMS: Graph Augmentation with Module Swapping**, in *arxiv* 2022. [\[pdf\]](https://www.scitepress.org/Papers/2022/108224/108224.pdf)
+
 * **Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation**, in *AAAI* 2022. [\[pdf\]](https://wangywust.github.io/Paper/2021mix.pdf)
 
 * **ifMixup: Towards Intrusion-Free Graph Mixup for Graph Classification**, in *arXiv*, 2021. [\[pdf\]](https://arxiv.org/pdf/2110.09344.pdf)
