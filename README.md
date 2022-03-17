@@ -65,7 +65,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Graph-level tasks
 
-* **GAMS: Graph Augmentation with Module Swapping**, in *arxiv* 2022. [\[pdf\]](https://www.scitepress.org/Papers/2022/108224/108224.pdf)
+* **GAMS: Graph Augmentation with Module Swapping**, in *arXiv* 2022. [\[pdf\]](https://www.scitepress.org/Papers/2022/108224/108224.pdf)
 
 * **Graph Transplant: Node Saliency-Guided Graph Mixup with Local Structure Preservation**, in *AAAI* 2022. [\[pdf\]](https://wangywust.github.io/Paper/2021mix.pdf)
 
@@ -99,7 +99,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 * **Large-Scale Representation Learning on Graphs via Bootstrapping**, in *ICLR* 2022. [\[pdf\]](https://arxiv.org/pdf/2102.06514.pdf) [\[code\]](https://github.com/Namkyeong/BGRL_Pytorch)
 
-* **Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2111.03220.pdf)
+* **Augmentations in Graph Contrastive Learning: Current Methodological Flaws & Towards Better Practices**, in *The WebConf* 2022. [\[pdf\]](https://arxiv.org/pdf/2111.03220.pdf)
 
 * **Contrastive Self-supervised Sequential Recommendation with Robust Augmentation**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2108.06479.pdf)
 
