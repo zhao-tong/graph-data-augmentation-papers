@@ -64,6 +64,7 @@ We will try to make this list updated. If you found any error or any missed pape
 * **Diffusion Improves Graph Learning**, in *NeurIPS* 2019. [\[pdf\]](https://proceedings.neurips.cc/paper/2019/file/23c894276a2c5a16470e6a31f4618d73-Paper.pdf) [\[code\]](https://github.com/klicperajo/gdc)
 
 ### Graph-level tasks
+* **Graph Rationalization with Environment-based Augmentations**, in *KDD* 2022. [\[pdf\]](https://arxiv.org/pdf/2206.02886.pdf) [\[code\]](https://github.com/liugangcode/GREA)
 
 * **Graph Augmentation Learning**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2203.09020)
 
