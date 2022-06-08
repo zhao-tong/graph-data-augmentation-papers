@@ -87,7 +87,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Edge-level tasks
 
-* **Counterfactual Graph Learning for Link Prediction**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2106.02172.pdf) [\[code\]](https://github.com/DM2-ND/CFLP)
+* **Learning from Counterfactual Links for Link Prediction**, in *ICML* 2022. [\[pdf\]](https://arxiv.org/pdf/2106.02172.pdf) [\[code\]](https://github.com/DM2-ND/CFLP)
 
 * **Adaptive Data Augmentation on Temporal Graphs**, in *NeurIPS* 2021. [\[pdf\]](https://proceedings.neurips.cc/paper/2021/file/0b0b0994d12ad343511adfbfc364256e-Paper.pdf)
 
