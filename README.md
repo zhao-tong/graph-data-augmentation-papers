@@ -27,7 +27,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Node-level tasks
 
-* **Local Augmentation for Graph Neural Networks**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2109.03856.pdf)
+* **Local Augmentation for Graph Neural Networks**, in *ICML* 2022. [\[pdf\]](https://arxiv.org/pdf/2109.03856.pdf)
 
 * **Training Robust Graph Neural Networks with Topology Adaptive Edge Dropping**, in *arXiv* 2021. [\[pdf\]](https://arxiv.org/pdf/2106.02892.pdf)
 
