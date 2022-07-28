@@ -65,7 +65,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Graph-level tasks
 
-* **G-Mixup: Graph Data Augmentation for Graph Classification**, in *ICML* 2022. [\[pdf\]](https://arxiv.org/pdf/2202.07179.pdf)
+* **G-Mixup: Graph Data Augmentation for Graph Classification**, in *ICML* 2022. [\[pdf\]](https://arxiv.org/pdf/2202.07179.pdf) [\[code\]](https://github.com/ahxt/g-mixup)
 
 * **Graph Rationalization with Environment-based Augmentations**, in *KDD* 2022. [\[pdf\]](https://arxiv.org/pdf/2206.02886.pdf) [\[code\]](https://github.com/liugangcode/GREA)
 
