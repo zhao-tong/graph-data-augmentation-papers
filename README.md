@@ -101,6 +101,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Contrastive learning
 
+* **Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative**, in *NeurIPS* 2022. [\[code\]](https://github.com/weitianxin/HyperGCL)
+
 * **Learning Graph Augmentations to Learn Graph Representations**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.09830.pdf) [\[code\]](https://github.com/kavehhassani/lg2ar)
 
 * **Fair Node Representation Learning via Adaptive Data Augmentation**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2201.08549.pdf)
