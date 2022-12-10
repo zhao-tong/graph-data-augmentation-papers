@@ -6,7 +6,9 @@ This repository contains a list of papers on the **Graph Data Augmentation**, we
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
-## Survey paper
+## Materials
+
+### Survey Paper
 
 [**Graph Data Augmentation for Graph Machine Learning: A Survey**](https://arxiv.org/pdf/2202.08871.pdf). 
 
@@ -22,6 +24,10 @@ We will try to make this list updated. If you found any error or any missed pape
   year={2022}
 }
 ```
+
+### Tutorials
+
+- SDM 2023: [Augmentation Methods for Graph Learning](https://github.com/zhao-tong/SDM2023_Graph_Data_Augmentation_Tutorial)
 
 ## Graph data augmentation for (semi-)supervised learning
 
