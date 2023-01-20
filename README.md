@@ -12,14 +12,14 @@ We will try to make this list updated. If you found any error or any missed pape
 
 [**Graph Data Augmentation for Graph Machine Learning: A Survey**](https://arxiv.org/pdf/2202.08871.pdf). 
 
-[Tong Zhao](https://tzhao.io/), [Gang Liu](https://scholar.google.com/citations?hl=en&user=zdF3vTYAAAAJ), [Stephan Günneman](https://www.in.tum.de/daml/team/guennemann/), and [Meng Jiang](http://www.meng-jiang.com/).
+[Tong Zhao](https://tzhao.io/), [Wei Jin](http://cse.msu.edu/~jinwei2/), [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en&authuser=2), [Yingheng Wang](https://isjakewong.github.io/), [Gang Liu](https://liugangcode.github.io/), [Stephan Günneman](https://www.in.tum.de/daml/team/guennemann/), [Neil Shah](https://nshah.net/), and [Meng Jiang](http://www.meng-jiang.com/).
 
 #### If you find this repository helpful for your work, please kindly cite our paper.
 
 ```bibtex
 @article{zhao2022graph,
   title={Graph Data Augmentation for Graph Machine Learning: A Survey},
-  author={Zhao, Tong and Liu, Gang and Günneman, Stephan and Jiang, Meng},
+  author={Zhao, Tong and Jin, Wei and Liu, Yozen and Wang, Yingheng and Liu, Gang and Günneman, Stephan and Shah, Neil and Jiang, Meng},
   journal={arXiv preprint arXiv:2202.08871},
   year={2022}
 }
