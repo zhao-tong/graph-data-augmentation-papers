@@ -20,8 +20,8 @@ We will try to make this list updated. If you found any error or any missed pape
 @article{zhao2022graph,
   title={Graph Data Augmentation for Graph Machine Learning: A Survey},
   author={Zhao, Tong and Jin, Wei and Liu, Yozen and Wang, Yingheng and Liu, Gang and Günneman, Stephan and Shah, Neil and Jiang, Meng},
-  journal={arXiv preprint arXiv:2202.08871},
-  year={2022}
+  journal={IEEE Data Engineering Bulletin},
+  year={2023}
 }
 ```
 
@@ -73,6 +73,12 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Graph-level tasks
 
+* **Data-Centric Learning from Unlabeled Graphs with Diffusion Model**, in *Arxiv* 2023. [\[pdf\]](https://arxiv.org/pdf/2303.10108.pdf) [\[code\]](https://github.com/liugangcode/data_centric_transfer)
+
+* **Automated Data Augmentations for Graph Classification**, in *ICLR* 2023. [\[pdf\]](https://arxiv.org/pdf/2202.13248.pdf)
+
+* **Semi-Supervised Graph Imbalanced Regression**, in *KDD* 2023. [\[pdf\]](https://arxiv.org/pdf/2305.12087.pdf) [\[code\]](https://github.com/liugangcode/SGIR)
+
 * **G-Mixup: Graph Data Augmentation for Graph Classification**, in *ICML* 2022. [\[pdf\]](https://arxiv.org/pdf/2202.07179.pdf) [\[code\]](https://github.com/ahxt/g-mixup)
 
 * **Graph Rationalization with Environment-based Augmentations**, in *KDD* 2022. [\[pdf\]](https://arxiv.org/pdf/2206.02886.pdf) [\[code\]](https://github.com/liugangcode/GREA)
@@ -99,6 +105,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Edge-level tasks
 
+* **Knowledge Graph Completion with Counterfactual Augmentation**, in *TheWebConf* 2023. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583401)
+
 * **Learning from Counterfactual Links for Link Prediction**, in *ICML* 2022. [\[pdf\]](https://arxiv.org/pdf/2106.02172.pdf) [\[code\]](https://github.com/DM2-ND/CFLP)
 
 * **Adaptive Data Augmentation on Temporal Graphs**, in *NeurIPS* 2021. [\[pdf\]](https://proceedings.neurips.cc/paper/2021/file/0b0b0994d12ad343511adfbfc364256e-Paper.pdf)
@@ -108,6 +116,10 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Graph data augmentation with self-supervised learning objectives
 
 ### Contrastive learning
+
+* **Spectral Augmentation for Self-Supervised Learning on Graphs**, in *ICLR* 2023. [\[pdf\]](https://arxiv.org/pdf/2210.00643.pdf)
+
+* **Graph Self-supervised Learning with Accurate Discrepancy Learning**, in *NeurIPS* 2022. [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/5b175f9e93873e3a10a6ce43dbb82e05-Paper-Conference.pdf) [\[code\]](https://github.com/DongkiKim95/D-SLA)
 
 * **Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative**, in *NeurIPS* 2022. [\[code\]](https://github.com/weitianxin/HyperGCL)
 
