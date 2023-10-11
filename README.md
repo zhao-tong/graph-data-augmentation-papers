@@ -73,7 +73,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Graph-level tasks
 
-* **Data-Centric Learning from Unlabeled Graphs with Diffusion Model**, in *Arxiv* 2023. [\[pdf\]](https://arxiv.org/pdf/2303.10108.pdf) [\[code\]](https://github.com/liugangcode/data_centric_transfer)
+* **Data-Centric Learning from Unlabeled Graphs with Diffusion Model**, in *NeurIPS* 2023. [\[pdf\]](https://arxiv.org/pdf/2303.10108.pdf) [\[code\]](https://github.com/liugangcode/data_centric_transfer)
 
 * **Automated Data Augmentations for Graph Classification**, in *ICLR* 2023. [\[pdf\]](https://arxiv.org/pdf/2202.13248.pdf)
 
@@ -84,8 +84,6 @@ We will try to make this list updated. If you found any error or any missed pape
 * **Graph Rationalization with Environment-based Augmentations**, in *KDD* 2022. [\[pdf\]](https://arxiv.org/pdf/2206.02886.pdf) [\[code\]](https://github.com/liugangcode/GREA)
 
 * **Graph Augmentation Learning**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2203.09020)
-
-* **Automated Data Augmentations for Graph Classification**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2202.13248.pdf)
 
 * **GAMS: Graph Augmentation with Module Swapping**, in *arXiv* 2022. [\[pdf\]](https://www.scitepress.org/Papers/2022/108224/108224.pdf)
 
