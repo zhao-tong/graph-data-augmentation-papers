@@ -6,6 +6,8 @@ This repository contains a list of papers on the **Graph Data Augmentation**, we
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
+***Note by Tong (April 2024):*** I've been quite busy these days and it's kinda hard for me to keep track of all the recent literature. Hence, this list is probably a bit outdated since this year (2024), and any community contribution would be greatly appreciated :)
+
 ## Materials
 
 ### Survey Paper
